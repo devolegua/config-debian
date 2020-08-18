@@ -1,0 +1,27 @@
+window:
+  startup_mode: Windowed
+
+font:
+  normal:
+    family: monospace
+    style: Bold
+
+  size: 17.5
+
+selection:
+  save_to_clipboard: true
+
+# Default:
+#   - (macOS) /bin/bash --login
+#   - (Linux) user login shell
+#   - (Windows) powershell
+#shell:
+#  program: /bin/bash
+#  args:
+#    - --login
+
+mouse:
+  url:
+    launcher:
+      program: firefox
+      args: []
