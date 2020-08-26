@@ -23,3 +23,4 @@ application/x-extension-shtml=userapp-Firefox-QGXUO0.desktop;
 application/xhtml+xml=userapp-Firefox-QGXUO0.desktop;
 application/x-extension-xhtml=userapp-Firefox-QGXUO0.desktop;
 application/x-extension-xht=userapp-Firefox-QGXUO0.desktop;
+text/plain=gvim.desktop;

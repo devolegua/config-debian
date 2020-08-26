@@ -6,7 +6,7 @@ font:
     family: monospace
     style: Bold
 
-  size: 17.5
+  size: 16
 
 selection:
   save_to_clipboard: true
