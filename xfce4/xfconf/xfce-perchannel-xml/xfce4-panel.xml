@@ -11,12 +11,15 @@
       <property name="size" type="uint" value="50"/>
       <property name="nrows" type="uint" value="2"/>
       <property name="plugin-ids" type="array">
-        <value type="int" value="5"/>
         <value type="int" value="2"/>
         <value type="int" value="4"/>
         <value type="int" value="3"/>
         <value type="int" value="6"/>
         <value type="int" value="15"/>
+        <value type="int" value="1"/>
+        <value type="int" value="16"/>
+        <value type="int" value="17"/>
+        <value type="int" value="5"/>
         <value type="int" value="7"/>
         <value type="int" value="8"/>
         <value type="int" value="14"/>
@@ -35,6 +38,7 @@
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="names-ordered" type="array">
+        <value type="string" value="telegramdesktop"/>
         <value type="string" value="networkmanager applet"/>
       </property>
       <property name="names-hidden" type="array">
@@ -56,7 +60,7 @@
     <property name="plugin-3" type="string" value="notification-plugin"/>
     <property name="plugin-4" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chromium.instance1077;chromium.instance1088;chromium.instance1177;chromium.instance1180;chromium.instance1197;chromium.instance12253;chromium.instance1388;chromium.instance1395;chromium.instance1429;chromium.instance1431;chromium.instance1450;chromium.instance1565;chromium.instance1851;chromium.instance1885;chromium.instance1931;chromium.instance19735;chromium.instance2081;chromium.instance2203;chromium.instance259146;chromium.instance29027;chromium.instance45811;chromium.instance5886;chromium.instance7652;chromium.instance7856;chromium.instance8239"/>
+      <property name="mpris-players" type="string" value="chromium.instance1077;chromium.instance1088;chromium.instance1098;chromium.instance1177;chromium.instance1180;chromium.instance1197;chromium.instance12253;chromium.instance1388;chromium.instance1395;chromium.instance1429;chromium.instance1431;chromium.instance1450;chromium.instance1485;chromium.instance1565;chromium.instance1851;chromium.instance1856;chromium.instance1885;chromium.instance1931;chromium.instance19735;chromium.instance2073;chromium.instance2081;chromium.instance2146;chromium.instance2203;chromium.instance23489;chromium.instance259146;chromium.instance2629;chromium.instance29027;chromium.instance3634;chromium.instance4162;chromium.instance45811;chromium.instance4601;chromium.instance5793;chromium.instance5886;chromium.instance7163;chromium.instance7652;chromium.instance7856;chromium.instance8239"/>
     </property>
     <property name="plugin-6" type="string" value="screenshooter"/>
     <property name="plugin-7" type="string" value="separator">
@@ -80,6 +84,13 @@
       <property name="tweaks" type="empty">
         <property name="never-confirm-history-clear" type="bool" value="false"/>
       </property>
+    </property>
+    <property name="plugin-1" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-16" type="string" value="separator"/>
+    <property name="plugin-17" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
     </property>
   </property>
 </channel>
