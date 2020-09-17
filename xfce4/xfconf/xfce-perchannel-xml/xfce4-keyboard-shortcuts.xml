@@ -37,6 +37,7 @@
       <property name="&lt;Super&gt;Escape" type="string" value="xfdesktop --menu"/>
       <property name="&lt;Alt&gt;&lt;Super&gt;p" type="string" value="xfce4-screenshooter -r"/>
       <property name="&lt;Primary&gt;&lt;Super&gt;p" type="string" value="xfce4-screenshooter -w"/>
+      <property name="&lt;Alt&gt;&lt;Super&gt;t" type="string" value="mpc toggle"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">
