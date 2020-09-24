@@ -1,6 +1,13 @@
 window:
   startup_mode: Windowed
 
+
+colors:
+  # Default colors
+  primary:
+    background: '0x000000'
+    foreground: '0xffeaea'
+
 font:
   normal:
     family: monospace

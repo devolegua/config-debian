@@ -12,8 +12,8 @@ application/x-extension-xhtml=userapp-Firefox-QGXUO0.desktop
 application/x-extension-xht=userapp-Firefox-QGXUO0.desktop
 
 [Added Associations]
-x-scheme-handler/http=userapp-Firefox-QGXUO0.desktop;
-x-scheme-handler/https=userapp-Firefox-QGXUO0.desktop;
+x-scheme-handler/http=exo-web-browser.desktop;
+x-scheme-handler/https=exo-web-browser.desktop;
 x-scheme-handler/ftp=userapp-Firefox-QGXUO0.desktop;
 x-scheme-handler/chrome=userapp-Firefox-QGXUO0.desktop;
 text/html=userapp-Firefox-QGXUO0.desktop;
@@ -24,3 +24,4 @@ application/xhtml+xml=userapp-Firefox-QGXUO0.desktop;
 application/x-extension-xhtml=userapp-Firefox-QGXUO0.desktop;
 application/x-extension-xht=userapp-Firefox-QGXUO0.desktop;
 text/plain=gvim.desktop;
+
